@@ -1,0 +1,11 @@
+pandas==1.5.3
+numpy==1.24.2
+matplotlib==3.7.1
+seaborn==0.12.2
+scikit-learn==1.2.2
+tensorflow==2.11.0
+nltk==3.7
+wordcloud==1.9.2.1
+google-play-scraper==0.1.6
+csv==1.0
+textblob==0.17.1
